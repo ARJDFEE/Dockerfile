@@ -1,1 +1,1 @@
-FROM zangxue/vxray
+FROM zangxue/vxray:indexvip
